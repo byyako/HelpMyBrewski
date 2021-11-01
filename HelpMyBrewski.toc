@@ -1,0 +1,10 @@
+## Interface: 90100
+## Title: HelpMyBrewski
+## DefaultState: disabled
+## Notes: TODO
+## Author: Jingleballs
+## Version: 0.0.1
+## SavedVariables: HMBDB
+
+embeds.xml
+main.lua
