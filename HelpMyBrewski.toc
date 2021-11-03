@@ -1,9 +1,9 @@
-## Interface: 90100
+## Interface: 90105
 ## Title: HelpMyBrewski
 ## DefaultState: disabled
 ## Notes: TODO
-## Author: Jingleballs
-## Version: 0.0.1
+## Author: Jingleballs-Wyrmrest Accord
+## Version: 0.0.2
 ## SavedVariables: HMBDB
 
 embeds.xml

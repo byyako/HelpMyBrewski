@@ -1,5 +1,5 @@
 _, N = ...
-local DEBUG = true;
+local DEBUG = false;
 
 
 function N:DebugPrint(message)

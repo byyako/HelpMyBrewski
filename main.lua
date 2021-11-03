@@ -5,6 +5,7 @@ local InternalName = "HMB";
 local defaults = {
     global = {
         enabled = true,
+        uwuEnabled = false,
         characterData = {},
         soundData = {}
     }
